@@ -1,4 +1,4 @@
-<h1>TinDog Technology use.</h1>
+<h1>TinDog Technology Use.</h1>
 <ol>
   <li>HTML</li>
   <li>CSS</li>
@@ -6,6 +6,6 @@
   <li>Bootstrap-4</li>
 </ol>
 <hr>
-<h2>font use.</h2>
+<h2>Font Use.</h2>
 <li>Google Fonts</li> 
 <li>Font Awesome</li>
