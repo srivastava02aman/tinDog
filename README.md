@@ -7,5 +7,5 @@
 </ol>
 <hr>
 <h2>font use.</h2>
-###Google Fonts 
-###Font Awesome
+##Google Fonts 
+##Font Awesome
