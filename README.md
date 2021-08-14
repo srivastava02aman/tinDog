@@ -5,3 +5,7 @@
   <li>JavaScript</li>
   <li>Bootstrap-4</li>
 </ol>
+<hr>
+<h2>font use.</h2>
+##Google Fonts 
+###Font Awesome
