@@ -10,7 +10,7 @@
 <li>Google Fonts</li> 
 <li>Font Awesome</li>
 <hr>
-<img src="images" alt="">
+<img src="images/tin1" alt="">
 <img src="" alt="">
 <img src="" alt="">
 <img src="" alt="">
