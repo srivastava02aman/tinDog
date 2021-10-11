@@ -11,7 +11,7 @@
 <li>Font Awesome</li>
 <hr>
 <img src="images/tin1" alt="">
-<img src="images/tin1" alt="">
-<img src="images/tin1" alt="">
-<img src="images/tin1" alt="">
-<img src="images/tin1" alt="">
+<img src="images/tin2" alt="">
+<img src="images/tin3" alt="">
+<img src="images/tin4" alt="">
+<img src="images/tin5" alt="">
