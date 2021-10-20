@@ -9,7 +9,7 @@
 <h2>Font Use.</h2>
 <li>Google Fonts</li> 
 <li>Font Awesome</li>
-<hr>
+
 <img src="images/tin1" alt="">
 <img src="images/tin2" alt="">
 <img src="images/tin3" alt="">
