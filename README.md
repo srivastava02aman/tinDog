@@ -1,4 +1,4 @@
-#TinDog
+<h1>TinDog</h1>
 <h3>TinDog Technology Use.</h3>
 <ol>
   <li>HTML</li>
