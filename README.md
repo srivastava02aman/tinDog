@@ -10,8 +10,8 @@
 <li>Google Fonts</li> 
 <li>Font Awesome</li>
 
-<img src="images/tin1" alt="">
-<img src="images/tin2" alt="">
-<img src="images/tin3" alt="">
-<img src="images/tin4" alt="">
-<img src="images/tin5" alt="">
+<img src="images/tin1" alt="tindog">
+<img src="images/tin2" alt="tindog">
+<img src="images/tin3" alt="tindog">
+<img src="images/tin4" alt="tindog">
+<img src="images/tin5" alt="tindog">
