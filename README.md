@@ -1,5 +1,5 @@
 <h1>TinDog</h1>
-<h3>TinDog Technology Use.</h3>
+<h3>TinDog Technology Used.</h3>
 <ol>
   <li>HTML</li>
   <li>CSS</li>
