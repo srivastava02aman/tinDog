@@ -7,7 +7,7 @@
   <li>Bootstrap-4</li>
 </ol>
 
-<h3>Font Use.</h3>
+<h3>Font Used.</h3>
 <li>Google Fonts</li> 
 <li>Font Awesome</li>
 
